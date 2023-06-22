@@ -24,10 +24,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sidharthhhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<div align="center">
+😜<b>Here's a Joke for you:</b>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+</div>
+	
 ---
 [![](https://visitcount.itsvg.in/api?id=sidharthhhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
