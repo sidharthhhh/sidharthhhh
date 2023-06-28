@@ -164,6 +164,6 @@ Happy coding! 😄
 </p>
 
 
-Credit: [Sidharth Shukla](https://github.com/sidharthhhhh)
+Credit: [Sidharth Shukla](https://github.com/sidharthhhh)
 
 
