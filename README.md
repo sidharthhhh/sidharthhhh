@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--profile visit count-->
 
-![followers](https://img.shields.io/github/followers/lonewolf-hub?style=social)
+![followers](https://img.shields.io/github/followers/sidharthhhh?style=social)
 ![stars](https://img.shields.io/github/stars/sidharthhhhh?style=social)
 
 <h1 align="center">Hi , I'm Sidharth shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
