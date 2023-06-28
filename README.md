@@ -74,7 +74,8 @@ Happy coding! 😄
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthhhh&" alt="sidharthhhh" /></p>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 #
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
@@ -98,7 +99,7 @@ Happy coding! 😄
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthhhh&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 <br>
