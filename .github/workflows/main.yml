@@ -6,7 +6,55 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
+      # every 6 hoursname: Generate Snake
+
+on:
+  # Schedule the action to run every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Allow manual triggering from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository code
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Generate the snake contribution graph
+      - name: Generate Snake
+        id: snake-gif
+        uses: Platane/snk@master
+        with:
+          github_user_name: sidharthhhh
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Show the status of the build for debugging purposes
+      - name: Show Build Status
+        run: git status
+
+      # Commit and push changes to the "output" branch
+      - name: Commit and Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+
+      # Deploy the generated graph on GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: gh-pages
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
