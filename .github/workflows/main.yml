@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2.4.3  # Update to the latest compatible version
+        uses: actions/checkout@v2  # Use the latest compatible version with Node.js 16
 
       - name: Generate Snake
         id: snake-gif
@@ -37,7 +37,7 @@ jobs:
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.5  # Update to the latest compatible version
+        uses: crazy-max/ghaction-github-pages@v3  # Use the latest compatible version with Node.js 16
         with:
           target_branch: gh-pages
           build_dir: dist
