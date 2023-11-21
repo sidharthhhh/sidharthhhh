@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--profile visit count-->
@@ -29,17 +28,14 @@
 
 Hello there! I'm Sidharth Shukla, a passionate frontend developer with a strong focus on Next.js. 🚀
 
-👩‍💻 Frontend Developer | Next.js Enthusiast | Curious Student | Tech Enthusiast
+👩‍💻 Frontend Developer | Next.js Enthusiast | Curious Student | Tech Enthusiast | DevOps Enthusiast
 
 💡 Passionate about crafting delightful user experiences with Next.js. Always eager to learn and improve.
 
-💻 Solid foundation in HTML, CSS, and JavaScript. Specializing in frontend development with Next.js.
-
-🌟 Stay up-to-date with the latest trends and tools in the frontend ecosystem. Embrace continuous learning.
+🔧 Currently diving deep into DevOps technology, exploring Linux, Jenkins, Docker, Kubernetes, Terraform, and 
+    Ansible alongside sharpening skills in JavaScript, Node.js, and Next.js.
 
 👩‍🔬 Collaborative mindset, thrive in diverse teams. Effective communication and open-mindedness.
-
-📚 Avid reader and tech advocate. Engrossed in Anime, attending tech meetups, and tinkering with side projects.
 
 🌟 Let's connect and explore frontend development together! Reach out for discussions, collaborations, or to share tech trends.
 <br><br>
