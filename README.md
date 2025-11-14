@@ -35,7 +35,7 @@ Always exploring new tools, architectures, and automation practices to improve e
 
 Believer in clean code, best DevOps practices, and continuous learning.	
 
-🌟 Let's connect and explore frontend development together! Reach out for discussions, collaborations, or to share tech trends.
+🌟 Let's connect and explore DevOps and Cloud together! Reach out for discussions, collaborations, or to share tech trends.
 <br><br>
 <div align="center">
   <p>
