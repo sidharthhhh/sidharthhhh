@@ -17,31 +17,33 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-<br><br>
+DevOps Engineer passionate about building scalable, reliable, and disaster-proof cloud solutions.
 
-Hello there! I'm Sidharth Shukla, a passionate frontend developer with a strong focus on Next.js. 🚀
+Hands-on experience with Docker, Kubernetes, Terraform, Linux, Git, Jenkins, Grafana, Prometheus, Loki, SonarQube, Trivy, Apache2, and more.
 
-👩‍💻 Frontend Developer | Next.js Enthusiast | Curious Student | Tech Enthusiast | DevOps Enthusiast
+Work extensively with AWS services to design, automate, and optimize cloud infrastructures.
 
-💡 Passionate about crafting delightful user experiences with Next.js. Always eager to learn and improve.
+Experienced in monitoring, logging, CI/CD pipelines, infrastructure as code, and security hardening.
 
-🔧 Currently diving deep into DevOps technology, exploring Linux, Jenkins, Docker, Kubernetes, Terraform, and 
-    Ansible alongside sharpening skills in JavaScript, Node.js, and Next.js.
+Strong foundation in web development with experience in React.js, Next.js, Node.js, REST APIs, and backend engineering.
 
-👩‍🔬 Collaborative mindset, thrive in diverse teams. Effective communication and open-mindedness.
+Love contributing to tech communities and helping developers solve real-world problems.
+
+Comfortable working on multi-cloud ecosystems including GCP, Azure, and DigitalOcean (currently with limited active involvement but strong knowledge).
+
+Always exploring new tools, architectures, and automation practices to improve efficiency and performance.
+
+Believer in clean code, best DevOps practices, and continuous learning.	
 
 🌟 Let's connect and explore frontend development together! Reach out for discussions, collaborations, or to share tech trends.
 <br><br>
 <div align="center">
-<p><a href="mailto:swayam1044@gmail.com">📧 Email: swayam1044@gmail.com</a></p>
-
+  <p>
+    <a href="https://x.com/Sidhart64113485" target="_blank">🐦 Connect with me on Twitter</a>
+  </p>
 </div>
 
-<div align="center">
-Happy coding! 😄
-	</div>
-<br>
-<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br><br>
