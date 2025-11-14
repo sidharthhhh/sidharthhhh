@@ -53,16 +53,6 @@ Happy coding! 😄
 </p>
 <br>
 <br>
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sidharthhhh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<br>
-<br>
-
-
 <p align="center">
 	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthhhh&theme=calm&show_icons=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&theme=calm&langs_count=15&layout=compact" />
