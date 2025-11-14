@@ -13,13 +13,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh)
 </div>
 
-<div align="center">
-  <p><b>Visitor's Count</b></b></p>
-
-![Visitor Count](https://profile-counter.glitch.me/{sidharthhhh}/count.svg)
-
-</div>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
