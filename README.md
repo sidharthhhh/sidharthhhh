@@ -41,30 +41,6 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
     <a href="https://x.com/Sidhart64113485" target="_blank">🐦 Connect with me on Twitter</a>
   </p>
 </div>
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br><br>
-
-<p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthhhh&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-</p>
-<br>
-<br>
-<p align="center">
-	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthhhh&theme=calm&show_icons=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&theme=calm&langs_count=15&layout=compact" />
-</p>
-<p align="center">
-
-</p>        
-<!--- stats (end) -->
-
-
-
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <!--icons and links-->
