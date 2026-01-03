@@ -59,9 +59,7 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&theme=calm&langs_count=15&layout=compact" />
 </p>
 <p align="center">
-<!--- trophy (start) -->
 
-<!--- trophy (end) -->
 </p>        
 <!--- stats (end) -->
 
@@ -77,11 +75,6 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
 <a href="https://hashnode.com/@sidharth007" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discord.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
-</p>
-
-<br> 
-
----
 
 <div align="center">
 😜<b>Here's a Joke for you:</b>
@@ -96,12 +89,9 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
 
 </div>
 
-<h3 align="center">Just Visit my projects, if u like it then Give me stars</b><img src="https://media0.giphy.com/media/h8xIcGUhmbqH4Oot1n/giphy.gif?cid=ecf05e47auyqlxyh8p1kn3gmh78yp8syuf9od0jb4vkod00r&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"></h3>
 
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
 
 
 <picture>
