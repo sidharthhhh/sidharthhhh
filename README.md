@@ -41,8 +41,7 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
     <a href="https://x.com/Sidhart64113485" target="_blank">🐦 Connect with me on Twitter</a>
   </p>
 </div>
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
-<br>
+
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/sidharth-shukla-a7a32320a/ target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
