@@ -52,6 +52,10 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
   
 
 <div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=sidharthhhh&theme=dracula)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
 😜<b>Here's a Joke for you:</b>
 	
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
