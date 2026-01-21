@@ -52,7 +52,7 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
   
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidharthhhh&theme=dracula)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=sidharthhhh&theme=dracula" alt="GitHub Streak" />
 </div>
 
 <div align="center">
