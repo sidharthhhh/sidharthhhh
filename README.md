@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--profile visit count-->
 
-![followers](https://img.shields.io/github/followers/sidharthhhh?style=social) ![stars](https://img.shields.io/github/stars/sidharthhhh?style=social) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsidharthhhh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/sidharthhhh?style=social) ![stars](https://img.shields.io/github/stars/sidharthhhh?style=social) <img src="https://komarev.com/ghpvc/?username=sidharthhhh&label=Profile%20views&color=ce9927&style=flat" />
 
 <h1 align="center">Hi , I'm Sidharth shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
