@@ -32,7 +32,7 @@ Comfortable working on multi-cloud ecosystems including GCP, Azure, and DigitalO
 
 Always exploring new tools, architectures, and automation practices to improve efficiency and performance.
 
-Believer in clean code, best DevOps practices, and continuous learning.	
+
 Let's connect and explore DevOps and Cloud together! Reach out for discussions, collaborations, or to share tech trends.
 <br><br>
 <div align="center">
