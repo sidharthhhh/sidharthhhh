@@ -17,10 +17,24 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-**DevOps Engineer** passionate about building scalable, reliable **AWS** and **Multi-cloud** solutions. Hands-on expert in **Docker**, **Kubernetes**, **Terraform**, and **CI/CD** pipelines. Strong foundation in Observability (Grafana, Prometheus) and Full-Stack development (React, Node.js).
+DevOps Engineer passionate about building scalable, reliable, and disaster-proof cloud solutions.
 
-Open to discussions and collaborations.
-**Streak:** 0 days 🔥
+Hands-on experience with Docker, Kubernetes, Terraform, Linux, Git, Jenkins, Grafana, Prometheus, Loki, SonarQube, Trivy, Apache2, and more.
+
+Work extensively with AWS services to design, automate, and optimize cloud infrastructures.
+
+Experienced in monitoring, logging, CI/CD pipelines, infrastructure as code, and security hardening.
+
+Strong foundation in web development with experience in React.js, Next.js, Node.js, REST APIs, and backend engineering.
+
+Love contributing to tech communities and helping developers solve real-world problems.
+
+Comfortable working on multi-cloud ecosystems including GCP, Azure, and DigitalOcean (currently with limited active involvement but strong knowledge).
+
+Always exploring new tools, architectures, and automation practices to improve efficiency and performance.
+
+Believer in clean code, best DevOps practices, and continuous learning.	
+Let's connect and explore DevOps and Cloud together! Reach out for discussions, collaborations, or to share tech trends.
 <br><br>
 <div align="center">
   <p>
