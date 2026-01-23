@@ -50,9 +50,7 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
 <a href="https://discord.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 
-<div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=sidharthhhh&theme=dark&hide_border=false)<br/>
-</div>
+
 
 <div align="center">
 😜<b>Here's a Joke for you:</b>
