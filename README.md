@@ -51,7 +51,7 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
   
 
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=sidharthhhh&theme=dark&hide_border=false)<br/>v
+![](https://nirzak-streak-stats.vercel.app/?user=sidharthhhh&theme=dark&hide_border=false)<br/>
 </div>
 
 <div align="center">
