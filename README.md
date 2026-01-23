@@ -51,7 +51,7 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
   
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=sidharthhhh&theme=dracula" alt="GitHub Streak" />
+![](https://nirzak-streak-stats.vercel.app/?user=sidharthhhh&theme=dark&hide_border=false)<br/>v
 </div>
 
 <div align="center">
