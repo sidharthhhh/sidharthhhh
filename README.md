@@ -60,6 +60,16 @@ Let's connect and explore DevOps and Cloud together! Reach out for discussions, 
 </div>
 
 <div align="center">
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharthhhh&show_icons=true&theme=tokyonight" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&layout=compact&theme=tokyonight" height="180" alt="languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthhhh&theme=tokyonight" alt="streak" />
+</div>
+<br>
+
+<div align="center">
 	
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidharthhhh&theme=dracula)
 
