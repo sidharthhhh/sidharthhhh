@@ -26,8 +26,6 @@ Experienced in monitoring, logging, CI/CD pipelines, infrastructure as code, and
 
 Strong foundation in web development with experience in React.js, Next.js, Node.js, REST APIs, and backend engineering.
 
-Love contributing to tech communities and helping developers solve real-world problems.
-
 Comfortable working on multi-cloud ecosystems including GCP, Azure, and DigitalOcean (currently with limited active involvement but strong knowledge).
 
 Always exploring new tools, architectures, and automation practices to improve efficiency and performance.
